@@ -8,9 +8,9 @@ VSMRはASMRコラボ配信を可能にするボイスチャットサービスで
 [OfficialSite](https://nocturne.ml)
 [GitHub](https://github.com/VSMR)
 
-VSMRを使ってくださる際には、
-クレジット表記として以下の文言を
-ライブ配信や動画の概要欄に貼り付けていただけると幸いです...!
+VSMRを使ってくださる際にはクレジット表記として、  
+以下の文言をライブ配信や動画の概要欄に貼り付けていただけると嬉しいです...!
+```
 ===========================================
 【 #VSMR | Virtual ASMR 】
 VSMRはインターネットでバイノーラル音声を
@@ -21,3 +21,4 @@ VSMR will provide you very clear voice chat and it will create new type of colla
 公式サイト : https://nocturne.ml
 開発者 : Sakyuba Noe ( https://twitter.com/398noetan )
 ===========================================
+```
