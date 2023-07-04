@@ -1,11 +1,11 @@
 # VSMR
-[https://nocturne.ml](https://nocturne.ml)
+[https://vsmr.gq](https://vsmr.gq)
 
 VSMR is a voice chat project for ASMR collab streaming✨  
 VSMRはASMRコラボ配信を可能にするボイスチャットサービスです。
 
 # Link
-[OfficialSite](https://nocturne.ml)
+[OfficialSite](https://vsmr.gq)
 [GitHub](https://github.com/VSMR)
 
 VSMRを使ってくださる際にはクレジット表記として、  
@@ -18,7 +18,7 @@ VSMRはインターネットでバイノーラル音声を
 VSMR is voice chat project for ASMR collaboration on the Internet.
 VSMR will provide you very clear voice chat and it will create new type of collaboration.
 
-公式サイト : https://nocturne.ml
+公式サイト : https://vsmr.gq
 開発者 : Sakyuba Noe ( https://twitter.com/398noetan )
 ===========================================
 ```
