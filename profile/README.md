@@ -5,7 +5,7 @@ VSMR is a voice chat project for ASMR collab streaming✨
 VSMRはASMRコラボ配信を可能にするボイスチャットサービスです。
 
 # Link
-[OfficialSite](https://vsmr.gq)
+[OfficialSite](https://vsmr.gq)  
 [GitHub](https://github.com/VSMR)
 
 VSMRを使ってくださる際にはクレジット表記として、  
